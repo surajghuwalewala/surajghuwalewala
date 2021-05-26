@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surajghuwalewala
 - 👀 I’m interested in Deep Learning and Computer Vision applications.
-- 🌱 I’m currently learning advanced tensorflow techniques and flutter.
+- 🌱 I’m currently learning advanced tensorflow and pytorch techniques and flutter.
 - 💞️ I’m looking to collaborate on AI based healthcare projects
 - 📫 How to reach me -> Drop me an email on ghuwalewalasuraj@gmail.com
 
