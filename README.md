@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @surajghuwalewala
-- 👀 I’m interested in Deep Learning, Computer Vision and LLM applications.
-- 🌱 I’m currently learning ReactJS and cost-effective use of LLMs.
-- 💞️ I’m looking to collaborate on AI based healthcare projects
-- 📫 How to reach me -> Drop me an email on ghuwalewalasuraj@gmail.com
+👋 Hi, I’m Suraj Ghuwalewala
 
-<!---
-surajghuwalewala/surajghuwalewala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 AI engineer & product-focused generalist with 7+ years of experience building applied ML and LLM-based systems.
+
+🛠️ Work spans deep learning, computer vision, LLM applications, and full-stack AI products (web + mobile).
+
+🚀 I enjoy turning ideas into usable products and adapting quickly across tech stacks with the help of modern AI tools.
+
+📫 Reach me at: ghuwalewalasuraj@gmail.com
